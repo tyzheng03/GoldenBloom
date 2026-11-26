@@ -1,4 +1,4 @@
-# goldenbloom
+# Goldenbloom
 
 A Python simulator for **Zha Jin Hua** (炸金花, "Golden Flower"), a three-card poker game, modeled as a **dynamic Bayesian game**. Every player acts to maximize their own expected net payoff, using beliefs about opponents' hands that are updated with Bayes' rule as the game unfolds.
 
